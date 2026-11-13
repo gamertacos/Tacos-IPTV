@@ -1,7 +1,7 @@
 #EXTM3U
-#TACOS-VERSION:20261113151433
-#TACOS-LAST-MODIFIED:2026-11-13T15:14:33Z
-#TACOS-CHANNELS:281
+#TACOS-VERSION:20261113182545
+#TACOS-LAST-MODIFIED:2026-11-13T18:25:45Z
+#TACOS-CHANNELS:283
 #EXTINF:-1 tvg-id="beinsports1en.id" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORT",beIN Sports 1 English
 https://tvnow247.top/watch/bein-sports-1-arabic/
 #EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 1 ( original ) [RU]" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png" group-title="SPORT" CUID="121",Матч! Футбол 1 ( original ) [RU]
@@ -564,3 +564,7 @@ http://127.0.0.1:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363&
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&pid=10714
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINEMA",MBC VARIETY HD
 https://mbc-variety.catsbengal.com/tv.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Uncategorized",alaoula
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=alaoulaeurope
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Uncategorized",arryadia
+https://www.elahmad.ru/tv/arryadia_maroc.php
