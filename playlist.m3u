@@ -1,9 +1,9 @@
 #EXTM3U
-#TACOS-VERSION:20261113182734
-#TACOS-LAST-MODIFIED:2026-11-13T18:27:34Z
+#TACOS-VERSION:20261114122855
+#TACOS-LAST-MODIFIED:2026-11-14T12:28:55Z
 #TACOS-CHANNELS:283
-#EXTINF:-1 tvg-id="beinsports1en.id" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORT",beIN Sports 1 English
-https://tvnow247.top/watch/bein-sports-1-arabic/
+#EXTINF:-1 tvg-id="beinsports1en.id" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORT",MBC 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=mbc2_tv_1
 #EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 1 ( original ) [RU]" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png" group-title="SPORT" CUID="121",Матч! Футбол 1 ( original ) [RU]
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&pid=39140
 #EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 2 ( original ) [RU]" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png" group-title="SPORT" CUID="122",Матч! Футбол 2 ( original ) [RU]
